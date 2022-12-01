@@ -1,3 +1,7 @@
+This is not my creation. I'm was using the Editor Atom for a log time. Now I try to get familyar with some other Editors like Github-Codspace and Visual Studio. 
+React is a Language on my bucket list in forseeable time.
+
+
 # GitHub Codespaces ♥️ React
 
 Welcome to your shiny new Codespace running React! We've got everything fired up and running for you to explore React.
